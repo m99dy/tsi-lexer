@@ -1,0 +1,5 @@
+{
+    "code-runner.runInTerminal": true,
+    "javascript.implicitProjectConfig.experimentalDecorators": true,
+    "js/ts.implicitProjectConfig.experimentalDecorators": true
+}
